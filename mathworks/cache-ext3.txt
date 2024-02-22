@@ -1,0 +1,17 @@
+avi
+bat
+com
+cpp
+dll
+dmg
+doc
+dtd
+enc
+eot
+eps
+exe
+fig
+fla
+flv
+mdb
+msi
